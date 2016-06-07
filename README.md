@@ -13,17 +13,21 @@ Process controler for Linux/Unix
 6. enter comands in 2nd console
 
 <b>Comands</b>
+<p>
 Proc:
 Make new process and it will keep it running until we maunaly close script or we use STOP
-Proc:#of_instances:PID of proces we want to run  (to get PID just type PIDOF procesname)
-Exit:
-Shuts down script
-Stop:
+Proc:#of_instances:PID of proces we want to run  (to get PID just type PIDOF procesname)</p>
+<p>Exit:
+Shuts down script</p>
+<p>Stop:
 Stops process that we give as parameter
 Stop:PID
+</p><p>
 Log:
 Save all info about running proces in file active.log
+</p>
+<p>
 Log last:
 Save info of last running process in file active.log
-
-if you find any error or bugs feel free to contact me.
+</p>
+<p>if you find any error or bugs feel free to contact me.</p>
